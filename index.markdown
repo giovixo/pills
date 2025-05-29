@@ -8,4 +8,4 @@ list_title: Pills
 
 ![Image]({{"/images/cyber-cat.png"  | relative_url }})
 
-Pills of science web site
+*Pills of science web site*
